@@ -1,0 +1,78 @@
+body
+    {
+        background-image: url(DALL·E-2024-12-18-14.29.42-A-realistic-futuristic-image-depicting-the-concept-of-Artificial-General-Intelligence-AGI-and-its-transformative-impact-on-society-aligned-with-th.webp);
+        font-family: 'Times New Roman', Times, serif;
+        margin-bottom: 0px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: yellow;
+        text-shadow: 2px 2px 5px black;
+        
+    }
+    
+
+ h1
+    {
+        margin-bottom: 5px;
+    }
+ h4
+    {
+        margin-top: 5px;
+    }
+
+nav
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    gap: 15px;
+    
+
+}
+
+
+
+.container {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    align-items: flex-start;
+    flex: 1;
+}
+
+aside {
+    
+    width: 25%;
+    padding: 15px;
+    position: sticky;
+    top: 15px;
+    align-self: flex-start;
+    height: fit-content;
+
+}
+
+main {
+    
+    flex: 1;
+    padding: 15px;
+}
+
+aside a {
+    display: block;
+    margin-bottom: 10px;
+    
+    
+}
+
+footer {
+
+    
+    padding: 15px;
+    margin-top: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form {
+font-size: 50px;
+
+}
